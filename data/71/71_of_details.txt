@@ -1,0 +1,13 @@
+Input:./data/71.gif
+Input full path:/content/data/71.gif
+Camera parameters:197.917,197.917,150,77.5
+Output HOG:71.hog
+Output video:71.avi
+Output aligned directory:71_aligned
+Output csv:71.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

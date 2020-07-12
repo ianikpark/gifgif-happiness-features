@@ -1,0 +1,6 @@
+Input:./data/784.gif
+Input full path:/content/data/784.gif
+Camera parameters:173.828,173.828,122.5,75
+Output HOG:784.hog
+Output video:784.avi
+Output aligned directory:784_aligned

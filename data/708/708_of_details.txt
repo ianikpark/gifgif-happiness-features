@@ -1,0 +1,6 @@
+Input:./data/708.gif
+Input full path:/content/data/708.gif
+Camera parameters:415.104,415.104,240,218.5
+Output HOG:708.hog
+Output video:708.avi
+Output aligned directory:708_aligned

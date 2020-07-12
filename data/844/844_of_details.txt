@@ -1,0 +1,13 @@
+Input:./data/844.gif
+Input full path:/content/data/844.gif
+Camera parameters:330.729,330.729,250,130
+Output HOG:844.hog
+Output video:844.avi
+Output aligned directory:844_aligned
+Output csv:844.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

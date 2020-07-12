@@ -1,0 +1,13 @@
+Input:./data/355.gif
+Input full path:/content/data/355.gif
+Camera parameters:242.188,242.188,150,120
+Output HOG:355.hog
+Output video:355.avi
+Output aligned directory:355_aligned
+Output csv:355.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

@@ -1,0 +1,6 @@
+Input:./data/397.gif
+Input full path:/content/data/397.gif
+Camera parameters:313.542,313.542,250,113.5
+Output HOG:397.hog
+Output video:397.avi
+Output aligned directory:397_aligned

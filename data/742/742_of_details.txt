@@ -1,0 +1,13 @@
+Input:./data/742.gif
+Input full path:/content/data/742.gif
+Camera parameters:248.828,248.828,122.5,147
+Output HOG:742.hog
+Output video:742.avi
+Output aligned directory:742_aligned
+Output csv:742.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

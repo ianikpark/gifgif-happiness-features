@@ -1,0 +1,6 @@
+Input:./data/60.gif
+Input full path:/content/data/60.gif
+Camera parameters:356.771,356.771,250,155
+Output HOG:60.hog
+Output video:60.avi
+Output aligned directory:60_aligned

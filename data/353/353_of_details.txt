@@ -1,0 +1,6 @@
+Input:./data/353.gif
+Input full path:/content/data/353.gif
+Camera parameters:327.083,327.083,250,126.5
+Output HOG:353.hog
+Output video:353.avi
+Output aligned directory:353_aligned

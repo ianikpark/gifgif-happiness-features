@@ -1,0 +1,6 @@
+Input:./data/864.gif
+Input full path:/content/data/864.gif
+Camera parameters:375,375,240,180
+Output HOG:864.hog
+Output video:864.avi
+Output aligned directory:864_aligned

@@ -1,0 +1,6 @@
+Input:./data/722.gif
+Input full path:/content/data/722.gif
+Camera parameters:395.833,395.833,250,192.5
+Output HOG:722.hog
+Output video:722.avi
+Output aligned directory:722_aligned

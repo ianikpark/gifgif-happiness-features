@@ -1,0 +1,13 @@
+Input:./data/420.gif
+Input full path:/content/data/420.gif
+Camera parameters:320.312,320.312,234,132
+Output HOG:420.hog
+Output video:420.avi
+Output aligned directory:420_aligned
+Output csv:420.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

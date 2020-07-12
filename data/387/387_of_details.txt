@@ -1,0 +1,13 @@
+Input:./data/387.gif
+Input full path:/content/data/387.gif
+Camera parameters:318.75,318.75,240,126
+Output HOG:387.hog
+Output video:387.avi
+Output aligned directory:387_aligned
+Output csv:387.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

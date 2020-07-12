@@ -1,0 +1,13 @@
+Input:./data/619.gif
+Input full path:/content/data/619.gif
+Camera parameters:252.083,252.083,184,104
+Output HOG:619.hog
+Output video:619.avi
+Output aligned directory:619_aligned
+Output csv:619.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

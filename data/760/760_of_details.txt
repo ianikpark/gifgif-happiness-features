@@ -1,0 +1,13 @@
+Input:./data/760.gif
+Input full path:/content/data/760.gif
+Camera parameters:392.708,392.708,250,189.5
+Output HOG:760.hog
+Output video:760.avi
+Output aligned directory:760_aligned
+Output csv:760.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

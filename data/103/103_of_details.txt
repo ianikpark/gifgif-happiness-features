@@ -1,0 +1,13 @@
+Input:./data/103.gif
+Input full path:/content/data/103.gif
+Camera parameters:184.245,184.245,122.5,85
+Output HOG:103.hog
+Output video:103.avi
+Output aligned directory:103_aligned
+Output csv:103.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

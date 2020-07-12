@@ -1,0 +1,13 @@
+Input:./data/869.gif
+Input full path:/content/data/869.gif
+Camera parameters:302.083,302.083,250,102.5
+Output HOG:869.hog
+Output video:869.avi
+Output aligned directory:869_aligned
+Output csv:869.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

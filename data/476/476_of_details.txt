@@ -1,0 +1,6 @@
+Input:./data/476.gif
+Input full path:/content/data/476.gif
+Camera parameters:181.641,181.641,122.5,82.5
+Output HOG:476.hog
+Output video:476.avi
+Output aligned directory:476_aligned

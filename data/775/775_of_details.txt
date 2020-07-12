@@ -1,0 +1,13 @@
+Input:./data/775.gif
+Input full path:/content/data/775.gif
+Camera parameters:210.807,210.807,122.5,110.5
+Output HOG:775.hog
+Output video:775.avi
+Output aligned directory:775_aligned
+Output csv:775.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

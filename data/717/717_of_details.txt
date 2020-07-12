@@ -1,0 +1,13 @@
+Input:./data/717.gif
+Input full path:/content/data/717.gif
+Camera parameters:156.25,156.25,80,90
+Output HOG:717.hog
+Output video:717.avi
+Output aligned directory:717_aligned
+Output csv:717.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

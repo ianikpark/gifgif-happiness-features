@@ -1,0 +1,6 @@
+Input:./data/438.gif
+Input full path:/content/data/438.gif
+Camera parameters:303.646,303.646,250,104
+Output HOG:438.hog
+Output video:438.avi
+Output aligned directory:438_aligned

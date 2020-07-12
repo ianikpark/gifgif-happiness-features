@@ -1,0 +1,13 @@
+Input:./data/646.gif
+Input full path:/content/data/646.gif
+Camera parameters:145.833,145.833,80,80
+Output HOG:646.hog
+Output video:646.avi
+Output aligned directory:646_aligned
+Output csv:646.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

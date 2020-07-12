@@ -1,0 +1,13 @@
+Input:./data/321.gif
+Input full path:/content/data/321.gif
+Camera parameters:312.5,312.5,250,112.5
+Output HOG:321.hog
+Output video:321.avi
+Output aligned directory:321_aligned
+Output csv:321.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

@@ -1,0 +1,6 @@
+Input:./data/348.gif
+Input full path:/content/data/348.gif
+Camera parameters:199.87,199.87,122.5,100
+Output HOG:348.hog
+Output video:348.avi
+Output aligned directory:348_aligned

@@ -1,0 +1,13 @@
+Input:./data/308.gif
+Input full path:/content/data/308.gif
+Camera parameters:168.62,168.62,122.5,70
+Output HOG:308.hog
+Output video:308.avi
+Output aligned directory:308_aligned
+Output csv:308.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

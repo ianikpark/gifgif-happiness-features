@@ -1,0 +1,13 @@
+Input:./data/145.gif
+Input full path:/content/data/145.gif
+Camera parameters:197.266,197.266,122.5,97.5
+Output HOG:145.hog
+Output video:145.avi
+Output aligned directory:145_aligned
+Output csv:145.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

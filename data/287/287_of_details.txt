@@ -1,0 +1,6 @@
+Input:./data/287.gif
+Input full path:/content/data/287.gif
+Camera parameters:189.974,189.974,122.5,90.5
+Output HOG:287.hog
+Output video:287.avi
+Output aligned directory:287_aligned

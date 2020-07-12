@@ -1,0 +1,13 @@
+Input:./data/279.gif
+Input full path:/content/data/279.gif
+Camera parameters:291.406,291.406,213,120
+Output HOG:279.hog
+Output video:279.avi
+Output aligned directory:279_aligned
+Output csv:279.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

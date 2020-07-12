@@ -1,0 +1,13 @@
+Input:./data/680.gif
+Input full path:/content/data/680.gif
+Camera parameters:286.458,286.458,200,125
+Output HOG:680.hog
+Output video:680.avi
+Output aligned directory:680_aligned
+Output csv:680.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

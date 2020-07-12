@@ -1,0 +1,6 @@
+Input:./data/739.gif
+Input full path:/content/data/739.gif
+Camera parameters:313.932,313.932,186.5,161.5
+Output HOG:739.hog
+Output video:739.avi
+Output aligned directory:739_aligned

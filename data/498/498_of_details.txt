@@ -1,0 +1,13 @@
+Input:./data/498.gif
+Input full path:/content/data/498.gif
+Camera parameters:387.37,387.37,212.5,212.5
+Output HOG:498.hog
+Output video:498.avi
+Output aligned directory:498_aligned
+Output csv:498.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

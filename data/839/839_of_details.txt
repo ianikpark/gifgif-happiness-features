@@ -1,0 +1,13 @@
+Input:./data/839.gif
+Input full path:/content/data/839.gif
+Camera parameters:214.844,214.844,125,112.5
+Output HOG:839.hog
+Output video:839.avi
+Output aligned directory:839_aligned
+Output csv:839.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

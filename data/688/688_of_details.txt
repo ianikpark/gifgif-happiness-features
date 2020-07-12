@@ -1,0 +1,6 @@
+Input:./data/688.gif
+Input full path:/content/data/688.gif
+Camera parameters:304.688,304.688,150,180
+Output HOG:688.hog
+Output video:688.avi
+Output aligned directory:688_aligned

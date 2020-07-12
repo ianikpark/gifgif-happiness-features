@@ -1,0 +1,13 @@
+Input:./data/383.gif
+Input full path:/content/data/383.gif
+Camera parameters:145.833,145.833,80,80
+Output HOG:383.hog
+Output video:383.avi
+Output aligned directory:383_aligned
+Output csv:383.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

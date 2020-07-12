@@ -1,0 +1,6 @@
+Input:./data/768.gif
+Input full path:/content/data/768.gif
+Camera parameters:312.5,312.5,200,150
+Output HOG:768.hog
+Output video:768.avi
+Output aligned directory:768_aligned

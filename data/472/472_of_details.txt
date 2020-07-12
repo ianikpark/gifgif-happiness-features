@@ -1,0 +1,13 @@
+Input:./data/472.gif
+Input full path:/content/data/472.gif
+Camera parameters:204.688,204.688,120,106.5
+Output HOG:472.hog
+Output video:472.avi
+Output aligned directory:472_aligned
+Output csv:472.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

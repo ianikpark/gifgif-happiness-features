@@ -1,0 +1,6 @@
+Input:./data/259.gif
+Input full path:/content/data/259.gif
+Camera parameters:377.083,377.083,250,174.5
+Output HOG:259.hog
+Output video:259.avi
+Output aligned directory:259_aligned

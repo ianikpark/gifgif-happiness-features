@@ -1,0 +1,6 @@
+Input:./data/825.gif
+Input full path:/content/data/825.gif
+Camera parameters:330.729,330.729,250,130
+Output HOG:825.hog
+Output video:825.avi
+Output aligned directory:825_aligned

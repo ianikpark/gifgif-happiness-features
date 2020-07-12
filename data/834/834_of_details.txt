@@ -1,0 +1,13 @@
+Input:./data/834.gif
+Input full path:/content/data/834.gif
+Camera parameters:330.208,330.208,176,185
+Output HOG:834.hog
+Output video:834.avi
+Output aligned directory:834_aligned
+Output csv:834.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

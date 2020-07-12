@@ -1,0 +1,6 @@
+Input:./data/330.gif
+Input full path:/content/data/330.gif
+Camera parameters:326.562,326.562,240,133.5
+Output HOG:330.hog
+Output video:330.avi
+Output aligned directory:330_aligned

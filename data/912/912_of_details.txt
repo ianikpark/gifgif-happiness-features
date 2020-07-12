@@ -1,0 +1,13 @@
+Input:./data/912.gif
+Input full path:/content/data/912.gif
+Camera parameters:341.667,341.667,250,140.5
+Output HOG:912.hog
+Output video:912.avi
+Output aligned directory:912_aligned
+Output csv:912.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

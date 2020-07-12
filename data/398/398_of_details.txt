@@ -1,0 +1,13 @@
+Input:./data/398.gif
+Input full path:/content/data/398.gif
+Camera parameters:191.927,191.927,125,90.5
+Output HOG:398.hog
+Output video:398.avi
+Output aligned directory:398_aligned
+Output csv:398.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

@@ -1,0 +1,6 @@
+Input:./data/170.gif
+Input full path:/content/data/170.gif
+Camera parameters:211.979,211.979,150,91
+Output HOG:170.hog
+Output video:170.avi
+Output aligned directory:170_aligned

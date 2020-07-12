@@ -1,0 +1,13 @@
+Input:./data/698.gif
+Input full path:/content/data/698.gif
+Camera parameters:208.333,208.333,150,87.5
+Output HOG:698.hog
+Output video:698.avi
+Output aligned directory:698_aligned
+Output csv:698.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

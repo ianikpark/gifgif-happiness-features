@@ -1,0 +1,6 @@
+Input:./data/124.gif
+Input full path:/content/data/124.gif
+Camera parameters:394.271,394.271,250,191
+Output HOG:124.hog
+Output video:124.avi
+Output aligned directory:124_aligned

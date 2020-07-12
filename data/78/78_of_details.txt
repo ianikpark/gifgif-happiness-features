@@ -1,0 +1,6 @@
+Input:./data/78.gif
+Input full path:/content/data/78.gif
+Camera parameters:243.75,243.75,152,120
+Output HOG:78.hog
+Output video:78.avi
+Output aligned directory:78_aligned

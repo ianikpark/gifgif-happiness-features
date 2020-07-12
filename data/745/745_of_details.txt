@@ -1,0 +1,6 @@
+Input:./data/745.gif
+Input full path:/content/data/745.gif
+Camera parameters:199.87,199.87,122.5,100
+Output HOG:745.hog
+Output video:745.avi
+Output aligned directory:745_aligned

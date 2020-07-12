@@ -1,0 +1,13 @@
+Input:./data/737.gif
+Input full path:/content/data/737.gif
+Camera parameters:291.797,291.797,213.5,120
+Output HOG:737.hog
+Output video:737.avi
+Output aligned directory:737_aligned
+Output csv:737.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

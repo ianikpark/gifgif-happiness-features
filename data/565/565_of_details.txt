@@ -1,0 +1,13 @@
+Input:./data/565.gif
+Input full path:/content/data/565.gif
+Camera parameters:147.917,147.917,80,82
+Output HOG:565.hog
+Output video:565.avi
+Output aligned directory:565_aligned
+Output csv:565.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

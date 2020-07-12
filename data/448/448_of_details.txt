@@ -1,0 +1,6 @@
+Input:./data/448.gif
+Input full path:/content/data/448.gif
+Camera parameters:327.604,327.604,240,134.5
+Output HOG:448.hog
+Output video:448.avi
+Output aligned directory:448_aligned

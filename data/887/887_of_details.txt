@@ -1,0 +1,6 @@
+Input:./data/887.gif
+Input full path:/content/data/887.gif
+Camera parameters:148.438,148.438,80,82.5
+Output HOG:887.hog
+Output video:887.avi
+Output aligned directory:887_aligned

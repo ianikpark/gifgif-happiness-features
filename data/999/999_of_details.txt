@@ -1,0 +1,6 @@
+Input:./data/999.gif
+Input full path:/content/data/999.gif
+Camera parameters:353.125,353.125,250,151.5
+Output HOG:999.hog
+Output video:999.avi
+Output aligned directory:999_aligned

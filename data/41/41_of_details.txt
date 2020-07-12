@@ -1,0 +1,6 @@
+Input:./data/41.gif
+Input full path:/content/data/41.gif
+Camera parameters:275.521,275.521,160,144.5
+Output HOG:41.hog
+Output video:41.avi
+Output aligned directory:41_aligned

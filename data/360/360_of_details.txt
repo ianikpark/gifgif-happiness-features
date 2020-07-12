@@ -1,0 +1,13 @@
+Input:./data/360.gif
+Input full path:/content/data/360.gif
+Camera parameters:179.036,179.036,122.5,80
+Output HOG:360.hog
+Output video:360.avi
+Output aligned directory:360_aligned
+Output csv:360.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

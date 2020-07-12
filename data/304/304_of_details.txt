@@ -1,0 +1,13 @@
+Input:./data/304.gif
+Input full path:/content/data/304.gif
+Camera parameters:218.62,218.62,146.5,100
+Output HOG:304.hog
+Output video:304.avi
+Output aligned directory:304_aligned
+Output csv:304.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

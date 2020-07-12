@@ -1,0 +1,6 @@
+Input:./data/92.gif
+Input full path:/content/data/92.gif
+Camera parameters:328.125,328.125,240,135
+Output HOG:92.hog
+Output video:92.avi
+Output aligned directory:92_aligned

@@ -1,0 +1,6 @@
+Input:./data/337.gif
+Input full path:/content/data/337.gif
+Camera parameters:394.792,394.792,250,191.5
+Output HOG:337.hog
+Output video:337.avi
+Output aligned directory:337_aligned

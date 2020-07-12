@@ -1,0 +1,13 @@
+Input:./data/690.gif
+Input full path:/content/data/690.gif
+Camera parameters:388.021,388.021,250,185
+Output HOG:690.hog
+Output video:690.avi
+Output aligned directory:690_aligned
+Output csv:690.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

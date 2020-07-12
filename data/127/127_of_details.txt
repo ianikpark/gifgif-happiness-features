@@ -1,0 +1,13 @@
+Input:./data/127.gif
+Input full path:/content/data/127.gif
+Camera parameters:154.688,154.688,100,73.5
+Output HOG:127.hog
+Output video:127.avi
+Output aligned directory:127_aligned
+Output csv:127.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

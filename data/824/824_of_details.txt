@@ -1,0 +1,13 @@
+Input:./data/824.gif
+Input full path:/content/data/824.gif
+Camera parameters:330.729,330.729,250,130
+Output HOG:824.hog
+Output video:824.avi
+Output aligned directory:824_aligned
+Output csv:824.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

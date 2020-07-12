@@ -1,0 +1,6 @@
+Input:./data/439.gif
+Input full path:/content/data/439.gif
+Camera parameters:250,250,160,120
+Output HOG:439.hog
+Output video:439.avi
+Output aligned directory:439_aligned

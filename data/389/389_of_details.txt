@@ -1,0 +1,13 @@
+Input:./data/389.gif
+Input full path:/content/data/389.gif
+Camera parameters:325.521,325.521,250,125
+Output HOG:389.hog
+Output video:389.avi
+Output aligned directory:389_aligned
+Output csv:389.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

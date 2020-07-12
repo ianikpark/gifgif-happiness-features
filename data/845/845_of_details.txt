@@ -1,0 +1,13 @@
+Input:./data/845.gif
+Input full path:/content/data/845.gif
+Camera parameters:182.292,182.292,104,97
+Output HOG:845.hog
+Output video:845.avi
+Output aligned directory:845_aligned
+Output csv:845.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

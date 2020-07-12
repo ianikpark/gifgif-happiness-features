@@ -1,0 +1,13 @@
+Input:./data/643.gif
+Input full path:/content/data/643.gif
+Camera parameters:323.438,323.438,250,123
+Output HOG:643.hog
+Output video:643.avi
+Output aligned directory:643_aligned
+Output csv:643.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

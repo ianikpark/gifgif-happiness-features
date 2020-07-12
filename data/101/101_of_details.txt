@@ -1,0 +1,13 @@
+Input:./data/101.gif
+Input full path:/content/data/101.gif
+Camera parameters:282.292,282.292,200,121
+Output HOG:101.hog
+Output video:101.avi
+Output aligned directory:101_aligned
+Output csv:101.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

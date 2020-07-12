@@ -1,0 +1,6 @@
+Input:./data/794.gif
+Input full path:/content/data/794.gif
+Camera parameters:223.307,223.307,122.5,122.5
+Output HOG:794.hog
+Output video:794.avi
+Output aligned directory:794_aligned

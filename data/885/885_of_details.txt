@@ -1,0 +1,13 @@
+Input:./data/885.gif
+Input full path:/content/data/885.gif
+Camera parameters:304.297,304.297,177.5,159
+Output HOG:885.hog
+Output video:885.avi
+Output aligned directory:885_aligned
+Output csv:885.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

@@ -1,0 +1,13 @@
+Input:./data/338.gif
+Input full path:/content/data/338.gif
+Camera parameters:250,250,160,120
+Output HOG:338.hog
+Output video:338.avi
+Output aligned directory:338_aligned
+Output csv:338.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

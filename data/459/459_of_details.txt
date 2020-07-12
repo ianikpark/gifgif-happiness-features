@@ -1,0 +1,6 @@
+Input:./data/459.gif
+Input full path:/content/data/459.gif
+Camera parameters:158.203,158.203,122.5,60
+Output HOG:459.hog
+Output video:459.avi
+Output aligned directory:459_aligned

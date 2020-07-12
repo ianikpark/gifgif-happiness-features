@@ -1,0 +1,13 @@
+Input:./data/644.gif
+Input full path:/content/data/644.gif
+Camera parameters:338.021,338.021,250,137
+Output HOG:644.hog
+Output video:644.avi
+Output aligned directory:644_aligned
+Output csv:644.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

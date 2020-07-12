@@ -1,0 +1,13 @@
+Input:./data/494.gif
+Input full path:/content/data/494.gif
+Camera parameters:172.266,172.266,122.5,73.5
+Output HOG:494.hog
+Output video:494.avi
+Output aligned directory:494_aligned
+Output csv:494.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

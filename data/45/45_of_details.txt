@@ -1,0 +1,13 @@
+Input:./data/45.gif
+Input full path:/content/data/45.gif
+Camera parameters:207.812,207.812,150,87
+Output HOG:45.hog
+Output video:45.avi
+Output aligned directory:45_aligned
+Output csv:45.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

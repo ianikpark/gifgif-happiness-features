@@ -1,0 +1,6 @@
+Input:./data/970.gif
+Input full path:/content/data/970.gif
+Camera parameters:218.229,218.229,160,89.5
+Output HOG:970.hog
+Output video:970.avi
+Output aligned directory:970_aligned

@@ -1,0 +1,6 @@
+Input:./data/320.gif
+Input full path:/content/data/320.gif
+Camera parameters:188.411,188.411,96.5,108.5
+Output HOG:320.hog
+Output video:320.avi
+Output aligned directory:320_aligned

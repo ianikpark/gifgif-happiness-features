@@ -1,0 +1,6 @@
+Input:./data/372.gif
+Input full path:/content/data/372.gif
+Camera parameters:214.974,214.974,122.5,114.5
+Output HOG:372.hog
+Output video:372.avi
+Output aligned directory:372_aligned

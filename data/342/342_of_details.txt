@@ -1,0 +1,13 @@
+Input:./data/342.gif
+Input full path:/content/data/342.gif
+Camera parameters:340.625,340.625,250,139.5
+Output HOG:342.hog
+Output video:342.avi
+Output aligned directory:342_aligned
+Output csv:342.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

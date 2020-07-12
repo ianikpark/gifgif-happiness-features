@@ -1,0 +1,13 @@
+Input:./data/451.gif
+Input full path:/content/data/451.gif
+Camera parameters:309.375,309.375,250,109.5
+Output HOG:451.hog
+Output video:451.avi
+Output aligned directory:451_aligned
+Output csv:451.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

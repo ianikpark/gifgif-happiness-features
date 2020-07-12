@@ -1,0 +1,6 @@
+Input:./data/904.gif
+Input full path:/content/data/904.gif
+Camera parameters:343.229,343.229,250,142
+Output HOG:904.hog
+Output video:904.avi
+Output aligned directory:904_aligned

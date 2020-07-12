@@ -1,0 +1,6 @@
+Input:./data/743.gif
+Input full path:/content/data/743.gif
+Camera parameters:312.5,312.5,200,150
+Output HOG:743.hog
+Output video:743.avi
+Output aligned directory:743_aligned

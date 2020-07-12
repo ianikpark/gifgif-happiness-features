@@ -1,0 +1,13 @@
+Input:./data/838.gif
+Input full path:/content/data/838.gif
+Camera parameters:370.833,370.833,250,168.5
+Output HOG:838.hog
+Output video:838.avi
+Output aligned directory:838_aligned
+Output csv:838.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

@@ -1,0 +1,6 @@
+Input:./data/478.gif
+Input full path:/content/data/478.gif
+Camera parameters:223.307,223.307,122.5,122.5
+Output HOG:478.hog
+Output video:478.avi
+Output aligned directory:478_aligned

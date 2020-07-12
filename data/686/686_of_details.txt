@@ -1,0 +1,13 @@
+Input:./data/686.gif
+Input full path:/content/data/686.gif
+Camera parameters:168.62,168.62,122.5,70
+Output HOG:686.hog
+Output video:686.avi
+Output aligned directory:686_aligned
+Output csv:686.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

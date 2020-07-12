@@ -1,0 +1,6 @@
+Input:./data/377.gif
+Input full path:/content/data/377.gif
+Camera parameters:338.151,338.151,247.5,139
+Output HOG:377.hog
+Output video:377.avi
+Output aligned directory:377_aligned

@@ -1,0 +1,13 @@
+Input:./data/884.gif
+Input full path:/content/data/884.gif
+Camera parameters:126.693,126.693,83.5,59
+Output HOG:884.hog
+Output video:884.avi
+Output aligned directory:884_aligned
+Output csv:884.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

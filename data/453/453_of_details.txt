@@ -1,0 +1,6 @@
+Input:./data/453.gif
+Input full path:/content/data/453.gif
+Camera parameters:393.75,393.75,250,190.5
+Output HOG:453.hog
+Output video:453.avi
+Output aligned directory:453_aligned

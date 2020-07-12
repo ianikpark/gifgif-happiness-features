@@ -1,0 +1,13 @@
+Input:./data/17.gif
+Input full path:/content/data/17.gif
+Camera parameters:271.875,271.875,200,111
+Output HOG:17.hog
+Output video:17.avi
+Output aligned directory:17_aligned
+Output csv:17.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

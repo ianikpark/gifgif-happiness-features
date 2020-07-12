@@ -1,0 +1,6 @@
+Input:./data/930.gif
+Input full path:/content/data/930.gif
+Camera parameters:250,250,160,120
+Output HOG:930.hog
+Output video:930.avi
+Output aligned directory:930_aligned

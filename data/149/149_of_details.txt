@@ -1,0 +1,6 @@
+Input:./data/149.gif
+Input full path:/content/data/149.gif
+Camera parameters:432.292,432.292,250,227.5
+Output HOG:149.hog
+Output video:149.avi
+Output aligned directory:149_aligned

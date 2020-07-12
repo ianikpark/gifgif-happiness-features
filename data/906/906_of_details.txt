@@ -1,0 +1,13 @@
+Input:./data/906.gif
+Input full path:/content/data/906.gif
+Camera parameters:121.615,121.615,67,66.5
+Output HOG:906.hog
+Output video:906.avi
+Output aligned directory:906_aligned
+Output csv:906.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

@@ -1,0 +1,13 @@
+Input:./data/345.gif
+Input full path:/content/data/345.gif
+Camera parameters:304.167,304.167,250,104.5
+Output HOG:345.hog
+Output video:345.avi
+Output aligned directory:345_aligned
+Output csv:345.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

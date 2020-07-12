@@ -1,0 +1,6 @@
+Input:./data/998.gif
+Input full path:/content/data/998.gif
+Camera parameters:335.938,335.938,250,135
+Output HOG:998.hog
+Output video:998.avi
+Output aligned directory:998_aligned

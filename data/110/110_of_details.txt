@@ -1,0 +1,13 @@
+Input:./data/110.gif
+Input full path:/content/data/110.gif
+Camera parameters:335.938,335.938,250,135
+Output HOG:110.hog
+Output video:110.avi
+Output aligned directory:110_aligned
+Output csv:110.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

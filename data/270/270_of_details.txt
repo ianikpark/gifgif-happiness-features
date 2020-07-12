@@ -1,0 +1,13 @@
+Input:./data/270.gif
+Input full path:/content/data/270.gif
+Camera parameters:187.891,187.891,122.5,88.5
+Output HOG:270.hog
+Output video:270.avi
+Output aligned directory:270_aligned
+Output csv:270.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

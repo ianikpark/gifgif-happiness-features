@@ -1,0 +1,13 @@
+Input:./data/718.gif
+Input full path:/content/data/718.gif
+Camera parameters:220.703,220.703,122.5,120
+Output HOG:718.hog
+Output video:718.avi
+Output aligned directory:718_aligned
+Output csv:718.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

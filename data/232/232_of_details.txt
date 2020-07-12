@@ -1,0 +1,6 @@
+Input:./data/232.gif
+Input full path:/content/data/232.gif
+Camera parameters:394.531,394.531,249,192
+Output HOG:232.hog
+Output video:232.avi
+Output aligned directory:232_aligned

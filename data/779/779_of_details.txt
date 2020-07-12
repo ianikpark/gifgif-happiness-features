@@ -1,0 +1,13 @@
+Input:./data/779.gif
+Input full path:/content/data/779.gif
+Camera parameters:345.833,345.833,250,144.5
+Output HOG:779.hog
+Output video:779.avi
+Output aligned directory:779_aligned
+Output csv:779.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

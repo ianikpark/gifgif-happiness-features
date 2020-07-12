@@ -1,0 +1,6 @@
+Input:./data/471.gif
+Input full path:/content/data/471.gif
+Camera parameters:390.625,390.625,250,187.5
+Output HOG:471.hog
+Output video:471.avi
+Output aligned directory:471_aligned

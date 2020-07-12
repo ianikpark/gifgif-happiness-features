@@ -1,0 +1,13 @@
+Input:./data/517.gif
+Input full path:/content/data/517.gif
+Camera parameters:173.828,173.828,122.5,75
+Output HOG:517.hog
+Output video:517.avi
+Output aligned directory:517_aligned
+Output csv:517.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

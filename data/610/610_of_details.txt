@@ -1,0 +1,6 @@
+Input:./data/610.gif
+Input full path:/content/data/610.gif
+Camera parameters:189.453,189.453,122.5,90
+Output HOG:610.hog
+Output video:610.avi
+Output aligned directory:610_aligned

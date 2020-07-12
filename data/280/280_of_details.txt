@@ -1,0 +1,6 @@
+Input:./data/280.gif
+Input full path:/content/data/280.gif
+Camera parameters:383.333,383.333,250,180.5
+Output HOG:280.hog
+Output video:280.avi
+Output aligned directory:280_aligned

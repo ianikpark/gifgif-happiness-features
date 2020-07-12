@@ -1,0 +1,13 @@
+Input:./data/298.gif
+Input full path:/content/data/298.gif
+Camera parameters:272.917,272.917,200,112
+Output HOG:298.hog
+Output video:298.avi
+Output aligned directory:298_aligned
+Output csv:298.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

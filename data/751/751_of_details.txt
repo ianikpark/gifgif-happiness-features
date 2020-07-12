@@ -1,0 +1,6 @@
+Input:./data/751.gif
+Input full path:/content/data/751.gif
+Camera parameters:173.177,173.177,125,72.5
+Output HOG:751.hog
+Output video:751.avi
+Output aligned directory:751_aligned

@@ -1,0 +1,6 @@
+Input:./data/604.gif
+Input full path:/content/data/604.gif
+Camera parameters:275,275,200,114
+Output HOG:604.hog
+Output video:604.avi
+Output aligned directory:604_aligned

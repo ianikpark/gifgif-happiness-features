@@ -1,0 +1,13 @@
+Input:./data/592.gif
+Input full path:/content/data/592.gif
+Camera parameters:187.5,187.5,120,90
+Output HOG:592.hog
+Output video:592.avi
+Output aligned directory:592_aligned
+Output csv:592.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

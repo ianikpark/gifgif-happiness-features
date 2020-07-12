@@ -1,0 +1,6 @@
+Input:./data/574.gif
+Input full path:/content/data/574.gif
+Camera parameters:338.542,338.542,250,137.5
+Output HOG:574.hog
+Output video:574.avi
+Output aligned directory:574_aligned

@@ -1,0 +1,13 @@
+Input:./data/819.gif
+Input full path:/content/data/819.gif
+Camera parameters:189.453,189.453,122.5,90
+Output HOG:819.hog
+Output video:819.avi
+Output aligned directory:819_aligned
+Output csv:819.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

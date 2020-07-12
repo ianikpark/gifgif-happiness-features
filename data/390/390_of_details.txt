@@ -1,0 +1,6 @@
+Input:./data/390.gif
+Input full path:/content/data/390.gif
+Camera parameters:285.938,285.938,186,135
+Output HOG:390.hog
+Output video:390.avi
+Output aligned directory:390_aligned

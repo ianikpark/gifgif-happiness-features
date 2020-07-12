@@ -1,0 +1,13 @@
+Input:./data/740.gif
+Input full path:/content/data/740.gif
+Camera parameters:239.974,239.974,174.5,99.5
+Output HOG:740.hog
+Output video:740.avi
+Output aligned directory:740_aligned
+Output csv:740.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

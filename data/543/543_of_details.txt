@@ -1,0 +1,6 @@
+Input:./data/543.gif
+Input full path:/content/data/543.gif
+Camera parameters:297.396,297.396,240,105.5
+Output HOG:543.hog
+Output video:543.avi
+Output aligned directory:543_aligned

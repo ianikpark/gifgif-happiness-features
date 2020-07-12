@@ -1,0 +1,13 @@
+Input:./data/406.gif
+Input full path:/content/data/406.gif
+Camera parameters:354.948,354.948,237,163
+Output HOG:406.hog
+Output video:406.avi
+Output aligned directory:406_aligned
+Output csv:406.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

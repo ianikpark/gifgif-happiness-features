@@ -1,0 +1,6 @@
+Input:./data/785.gif
+Input full path:/content/data/785.gif
+Camera parameters:290.104,290.104,170,151
+Output HOG:785.hog
+Output video:785.avi
+Output aligned directory:785_aligned

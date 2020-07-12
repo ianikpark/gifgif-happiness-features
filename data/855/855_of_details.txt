@@ -1,0 +1,13 @@
+Input:./data/855.gif
+Input full path:/content/data/855.gif
+Camera parameters:405.859,405.859,199.5,240
+Output HOG:855.hog
+Output video:855.avi
+Output aligned directory:855_aligned
+Output csv:855.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

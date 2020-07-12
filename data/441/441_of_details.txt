@@ -1,0 +1,13 @@
+Input:./data/441.gif
+Input full path:/content/data/441.gif
+Camera parameters:325.521,325.521,250,125
+Output HOG:441.hog
+Output video:441.avi
+Output aligned directory:441_aligned
+Output csv:441.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

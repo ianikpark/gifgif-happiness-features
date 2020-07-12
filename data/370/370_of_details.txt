@@ -1,0 +1,6 @@
+Input:./data/370.gif
+Input full path:/content/data/370.gif
+Camera parameters:167.578,167.578,122.5,69
+Output HOG:370.hog
+Output video:370.avi
+Output aligned directory:370_aligned

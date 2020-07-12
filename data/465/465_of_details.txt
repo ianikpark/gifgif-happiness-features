@@ -1,0 +1,6 @@
+Input:./data/465.gif
+Input full path:/content/data/465.gif
+Camera parameters:388.802,388.802,249,186.5
+Output HOG:465.hog
+Output video:465.avi
+Output aligned directory:465_aligned

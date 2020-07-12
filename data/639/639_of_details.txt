@@ -1,0 +1,13 @@
+Input:./data/639.gif
+Input full path:/content/data/639.gif
+Camera parameters:322.917,322.917,250,122.5
+Output HOG:639.hog
+Output video:639.avi
+Output aligned directory:639_aligned
+Output csv:639.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

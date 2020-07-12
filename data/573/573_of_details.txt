@@ -1,0 +1,13 @@
+Input:./data/573.gif
+Input full path:/content/data/573.gif
+Camera parameters:167.057,167.057,122.5,68.5
+Output HOG:573.hog
+Output video:573.avi
+Output aligned directory:573_aligned
+Output csv:573.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

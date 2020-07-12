@@ -1,0 +1,6 @@
+Input:./data/364.gif
+Input full path:/content/data/364.gif
+Camera parameters:340.625,340.625,250,139.5
+Output HOG:364.hog
+Output video:364.avi
+Output aligned directory:364_aligned

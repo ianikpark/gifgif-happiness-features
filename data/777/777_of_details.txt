@@ -1,0 +1,6 @@
+Input:./data/777.gif
+Input full path:/content/data/777.gif
+Camera parameters:382.812,382.812,250,180
+Output HOG:777.hog
+Output video:777.avi
+Output aligned directory:777_aligned

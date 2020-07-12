@@ -1,0 +1,13 @@
+Input:./data/761.gif
+Input full path:/content/data/761.gif
+Camera parameters:183.724,183.724,122.5,84.5
+Output HOG:761.hog
+Output video:761.avi
+Output aligned directory:761_aligned
+Output csv:761.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

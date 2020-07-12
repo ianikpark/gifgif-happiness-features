@@ -1,0 +1,13 @@
+Input:./data/749.gif
+Input full path:/content/data/749.gif
+Camera parameters:365.625,365.625,250,163.5
+Output HOG:749.hog
+Output video:749.avi
+Output aligned directory:749_aligned
+Output csv:749.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

@@ -1,0 +1,13 @@
+Input:./data/652.gif
+Input full path:/content/data/652.gif
+Camera parameters:308.854,308.854,180,161.5
+Output HOG:652.hog
+Output video:652.avi
+Output aligned directory:652_aligned
+Output csv:652.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

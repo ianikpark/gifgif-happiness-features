@@ -1,0 +1,13 @@
+Input:./data/163.gif
+Input full path:/content/data/163.gif
+Camera parameters:360.677,360.677,245,162.5
+Output HOG:163.hog
+Output video:163.avi
+Output aligned directory:163_aligned
+Output csv:163.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

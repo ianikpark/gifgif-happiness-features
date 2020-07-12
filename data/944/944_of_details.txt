@@ -1,0 +1,6 @@
+Input:./data/944.gif
+Input full path:/content/data/944.gif
+Camera parameters:244.531,244.531,175,103.5
+Output HOG:944.hog
+Output video:944.avi
+Output aligned directory:944_aligned

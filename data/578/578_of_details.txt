@@ -1,0 +1,13 @@
+Input:./data/578.gif
+Input full path:/content/data/578.gif
+Camera parameters:391.146,391.146,250,188
+Output HOG:578.hog
+Output video:578.avi
+Output aligned directory:578_aligned
+Output csv:578.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

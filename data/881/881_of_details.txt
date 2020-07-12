@@ -1,0 +1,13 @@
+Input:./data/881.gif
+Input full path:/content/data/881.gif
+Camera parameters:364.062,364.062,250,162
+Output HOG:881.hog
+Output video:881.avi
+Output aligned directory:881_aligned
+Output csv:881.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

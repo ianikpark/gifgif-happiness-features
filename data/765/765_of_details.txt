@@ -1,0 +1,6 @@
+Input:./data/765.gif
+Input full path:/content/data/765.gif
+Camera parameters:300,300,192,144
+Output HOG:765.hog
+Output video:765.avi
+Output aligned directory:765_aligned

@@ -1,0 +1,13 @@
+Input:./data/902.gif
+Input full path:/content/data/902.gif
+Camera parameters:273.307,273.307,176.5,130
+Output HOG:902.hog
+Output video:902.avi
+Output aligned directory:902_aligned
+Output csv:902.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

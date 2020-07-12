@@ -1,0 +1,13 @@
+Input:./data/491.gif
+Input full path:/content/data/491.gif
+Camera parameters:226.823,226.823,125,124
+Output HOG:491.hog
+Output video:491.avi
+Output aligned directory:491_aligned
+Output csv:491.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

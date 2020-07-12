@@ -1,0 +1,13 @@
+Input:./data/783.gif
+Input full path:/content/data/783.gif
+Camera parameters:207.682,207.682,122.5,107.5
+Output HOG:783.hog
+Output video:783.avi
+Output aligned directory:783_aligned
+Output csv:783.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

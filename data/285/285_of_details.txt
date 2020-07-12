@@ -1,0 +1,13 @@
+Input:./data/285.gif
+Input full path:/content/data/285.gif
+Camera parameters:455.729,455.729,250,250
+Output HOG:285.hog
+Output video:285.avi
+Output aligned directory:285_aligned
+Output csv:285.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

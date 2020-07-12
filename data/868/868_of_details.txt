@@ -1,0 +1,13 @@
+Input:./data/868.gif
+Input full path:/content/data/868.gif
+Camera parameters:299.479,299.479,250,100
+Output HOG:868.hog
+Output video:868.avi
+Output aligned directory:868_aligned
+Output csv:868.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

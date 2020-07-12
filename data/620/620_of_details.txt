@@ -1,0 +1,13 @@
+Input:./data/620.gif
+Input full path:/content/data/620.gif
+Camera parameters:145.833,145.833,80,80
+Output HOG:620.hog
+Output video:620.avi
+Output aligned directory:620_aligned
+Output csv:620.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

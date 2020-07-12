@@ -1,0 +1,13 @@
+Input:./data/936.gif
+Input full path:/content/data/936.gif
+Camera parameters:175.781,175.781,105,90
+Output HOG:936.hog
+Output video:936.avi
+Output aligned directory:936_aligned
+Output csv:936.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

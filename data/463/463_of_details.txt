@@ -1,0 +1,13 @@
+Input:./data/463.gif
+Input full path:/content/data/463.gif
+Camera parameters:240.104,240.104,200,80.5
+Output HOG:463.hog
+Output video:463.avi
+Output aligned directory:463_aligned
+Output csv:463.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

@@ -1,0 +1,13 @@
+Input:./data/431.gif
+Input full path:/content/data/431.gif
+Camera parameters:219.141,219.141,162.5,88.5
+Output HOG:431.hog
+Output video:431.avi
+Output aligned directory:431_aligned
+Output csv:431.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

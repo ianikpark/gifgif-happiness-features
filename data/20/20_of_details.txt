@@ -1,0 +1,6 @@
+Input:./data/20.gif
+Input full path:/content/data/20.gif
+Camera parameters:250.521,250.521,160,120.5
+Output HOG:20.hog
+Output video:20.avi
+Output aligned directory:20_aligned

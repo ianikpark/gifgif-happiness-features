@@ -1,0 +1,13 @@
+Input:./data/386.gif
+Input full path:/content/data/386.gif
+Camera parameters:336.979,336.979,250,136
+Output HOG:386.hog
+Output video:386.avi
+Output aligned directory:386_aligned
+Output csv:386.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

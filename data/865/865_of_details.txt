@@ -1,0 +1,13 @@
+Input:./data/865.gif
+Input full path:/content/data/865.gif
+Camera parameters:227.865,227.865,125,125
+Output HOG:865.hog
+Output video:865.avi
+Output aligned directory:865_aligned
+Output csv:865.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

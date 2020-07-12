@@ -1,0 +1,13 @@
+Input:./data/729.gif
+Input full path:/content/data/729.gif
+Camera parameters:341.146,341.146,250,140
+Output HOG:729.hog
+Output video:729.avi
+Output aligned directory:729_aligned
+Output csv:729.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

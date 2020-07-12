@@ -1,0 +1,6 @@
+Input:./data/951.gif
+Input full path:/content/data/951.gif
+Camera parameters:166.016,166.016,122.5,67.5
+Output HOG:951.hog
+Output video:951.avi
+Output aligned directory:951_aligned

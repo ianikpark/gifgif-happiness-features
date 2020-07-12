@@ -1,0 +1,13 @@
+Input:./data/391.gif
+Input full path:/content/data/391.gif
+Camera parameters:334.115,334.115,245,137
+Output HOG:391.hog
+Output video:391.avi
+Output aligned directory:391_aligned
+Output csv:391.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

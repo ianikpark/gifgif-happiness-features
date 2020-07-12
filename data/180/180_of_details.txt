@@ -1,0 +1,6 @@
+Input:./data/180.gif
+Input full path:/content/data/180.gif
+Camera parameters:334.375,334.375,250,133.5
+Output HOG:180.hog
+Output video:180.avi
+Output aligned directory:180_aligned

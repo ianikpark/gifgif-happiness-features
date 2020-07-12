@@ -1,0 +1,13 @@
+Input:./data/125.gif
+Input full path:/content/data/125.gif
+Camera parameters:304.688,304.688,250,105
+Output HOG:125.hog
+Output video:125.avi
+Output aligned directory:125_aligned
+Output csv:125.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

@@ -1,0 +1,13 @@
+Input:./data/15.gif
+Input full path:/content/data/15.gif
+Camera parameters:343.75,343.75,250,142.5
+Output HOG:15.hog
+Output video:15.avi
+Output aligned directory:15_aligned
+Output csv:15.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

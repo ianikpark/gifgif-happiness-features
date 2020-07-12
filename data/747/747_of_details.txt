@@ -1,0 +1,13 @@
+Input:./data/747.gif
+Input full path:/content/data/747.gif
+Camera parameters:239.323,239.323,175,98.5
+Output HOG:747.hog
+Output video:747.avi
+Output aligned directory:747_aligned
+Output csv:747.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

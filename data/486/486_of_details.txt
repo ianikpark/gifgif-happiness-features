@@ -1,0 +1,6 @@
+Input:./data/486.gif
+Input full path:/content/data/486.gif
+Camera parameters:226.172,226.172,137.5,114
+Output HOG:486.hog
+Output video:486.avi
+Output aligned directory:486_aligned

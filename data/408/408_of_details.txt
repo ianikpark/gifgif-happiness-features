@@ -1,0 +1,6 @@
+Input:./data/408.gif
+Input full path:/content/data/408.gif
+Camera parameters:353.646,353.646,250,152
+Output HOG:408.hog
+Output video:408.avi
+Output aligned directory:408_aligned

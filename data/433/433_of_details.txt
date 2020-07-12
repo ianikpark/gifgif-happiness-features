@@ -1,0 +1,6 @@
+Input:./data/433.gif
+Input full path:/content/data/433.gif
+Camera parameters:395.312,395.312,250,192
+Output HOG:433.hog
+Output video:433.avi
+Output aligned directory:433_aligned

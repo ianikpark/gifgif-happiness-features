@@ -1,0 +1,13 @@
+Input:./data/434.gif
+Input full path:/content/data/434.gif
+Camera parameters:319.271,319.271,250,119
+Output HOG:434.hog
+Output video:434.avi
+Output aligned directory:434_aligned
+Output csv:434.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

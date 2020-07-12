@@ -1,0 +1,13 @@
+Input:./data/477.gif
+Input full path:/content/data/477.gif
+Camera parameters:270.833,270.833,200,110
+Output HOG:477.hog
+Output video:477.avi
+Output aligned directory:477_aligned
+Output csv:477.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

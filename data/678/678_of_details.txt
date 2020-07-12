@@ -1,0 +1,13 @@
+Input:./data/678.gif
+Input full path:/content/data/678.gif
+Camera parameters:161.198,161.198,125,61
+Output HOG:678.hog
+Output video:678.avi
+Output aligned directory:678_aligned
+Output csv:678.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

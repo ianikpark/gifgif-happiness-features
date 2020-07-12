@@ -1,0 +1,6 @@
+Input:./data/977.gif
+Input full path:/content/data/977.gif
+Camera parameters:308.854,308.854,250,109
+Output HOG:977.hog
+Output video:977.avi
+Output aligned directory:977_aligned

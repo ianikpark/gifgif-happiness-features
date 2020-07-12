@@ -1,0 +1,13 @@
+Input:./data/960.gif
+Input full path:/content/data/960.gif
+Camera parameters:275.781,275.781,159,145.5
+Output HOG:960.hog
+Output video:960.avi
+Output aligned directory:960_aligned
+Output csv:960.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

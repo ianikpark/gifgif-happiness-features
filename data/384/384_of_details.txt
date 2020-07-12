@@ -1,0 +1,13 @@
+Input:./data/384.gif
+Input full path:/content/data/384.gif
+Camera parameters:255.208,255.208,80,185
+Output HOG:384.hog
+Output video:384.avi
+Output aligned directory:384_aligned
+Output csv:384.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

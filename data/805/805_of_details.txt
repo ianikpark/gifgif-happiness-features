@@ -1,0 +1,13 @@
+Input:./data/805.gif
+Input full path:/content/data/805.gif
+Camera parameters:205.208,205.208,150,84.5
+Output HOG:805.hog
+Output video:805.avi
+Output aligned directory:805_aligned
+Output csv:805.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

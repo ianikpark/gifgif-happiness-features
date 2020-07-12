@@ -1,0 +1,6 @@
+Input:./data/481.gif
+Input full path:/content/data/481.gif
+Camera parameters:354.297,354.297,229.5,168
+Output HOG:481.hog
+Output video:481.avi
+Output aligned directory:481_aligned

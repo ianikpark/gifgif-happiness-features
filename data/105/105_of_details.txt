@@ -1,0 +1,6 @@
+Input:./data/105.gif
+Input full path:/content/data/105.gif
+Camera parameters:399.479,399.479,250,196
+Output HOG:105.hog
+Output video:105.avi
+Output aligned directory:105_aligned

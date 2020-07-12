@@ -1,0 +1,6 @@
+Input:./data/846.gif
+Input full path:/content/data/846.gif
+Camera parameters:362.5,362.5,250,160.5
+Output HOG:846.hog
+Output video:846.avi
+Output aligned directory:846_aligned

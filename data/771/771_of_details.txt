@@ -1,0 +1,6 @@
+Input:./data/771.gif
+Input full path:/content/data/771.gif
+Camera parameters:218.75,218.75,160,90
+Output HOG:771.hog
+Output video:771.avi
+Output aligned directory:771_aligned

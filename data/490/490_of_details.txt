@@ -1,0 +1,13 @@
+Input:./data/490.gif
+Input full path:/content/data/490.gif
+Camera parameters:251.953,251.953,122.5,150
+Output HOG:490.hog
+Output video:490.avi
+Output aligned directory:490_aligned
+Output csv:490.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

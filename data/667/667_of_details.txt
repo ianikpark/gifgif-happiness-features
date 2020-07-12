@@ -1,0 +1,13 @@
+Input:./data/667.gif
+Input full path:/content/data/667.gif
+Camera parameters:286.458,286.458,180,140
+Output HOG:667.hog
+Output video:667.avi
+Output aligned directory:667_aligned
+Output csv:667.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

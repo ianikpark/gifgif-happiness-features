@@ -1,0 +1,13 @@
+Input:./data/897.gif
+Input full path:/content/data/897.gif
+Camera parameters:197.135,197.135,121,98.5
+Output HOG:897.hog
+Output video:897.avi
+Output aligned directory:897_aligned
+Output csv:897.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

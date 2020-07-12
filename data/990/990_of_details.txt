@@ -1,0 +1,6 @@
+Input:./data/990.gif
+Input full path:/content/data/990.gif
+Camera parameters:195.573,195.573,125,94
+Output HOG:990.hog
+Output video:990.avi
+Output aligned directory:990_aligned

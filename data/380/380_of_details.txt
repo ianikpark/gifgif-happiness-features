@@ -1,0 +1,6 @@
+Input:./data/380.gif
+Input full path:/content/data/380.gif
+Camera parameters:335.417,335.417,250,134.5
+Output HOG:380.hog
+Output video:380.avi
+Output aligned directory:380_aligned

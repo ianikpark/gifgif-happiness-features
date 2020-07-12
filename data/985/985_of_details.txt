@@ -1,0 +1,6 @@
+Input:./data/985.gif
+Input full path:/content/data/985.gif
+Camera parameters:299.089,299.089,167.5,161.5
+Output HOG:985.hog
+Output video:985.avi
+Output aligned directory:985_aligned

@@ -1,0 +1,13 @@
+Input:./data/584.gif
+Input full path:/content/data/584.gif
+Camera parameters:203.125,203.125,130,97.5
+Output HOG:584.hog
+Output video:584.avi
+Output aligned directory:584_aligned
+Output csv:584.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
